@@ -1,2 +1,2 @@
-# danolearn-cheating-tool
-Browser Extension to cheat in Danolearn Test
+# auto-quiz-chatbot
+Browser Extension to automatically answer single choice/multiple choices online quiz
